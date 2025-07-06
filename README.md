@@ -1,6 +1,4 @@
 # nykaa-ecommerce-clone
-Interactive Nykaa-inspired e-commerce site built using Wix Studio featuring 3D product models, smooth animations, embedded YouTube videos, a chatbot, and text-to-speech functionality for an engaging shopping experience.
-# nykaa-ecommerce-clone
 
 Interactive Nykaa-inspired e-commerce site built using Wix Studio featuring 3D product models, smooth animations, embedded YouTube videos, a chatbot, and text-to-speech functionality for an engaging shopping experience.
 
